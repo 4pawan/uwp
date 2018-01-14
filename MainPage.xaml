@@ -8,6 +8,8 @@
     mc:Ignorable="d">
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
-
+     <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+          <TextBlock Text="Welcome to Digitas"></TextBlock>
+     </StackPanel>
     </Grid>
 </Page>
